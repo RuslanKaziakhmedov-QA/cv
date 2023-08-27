@@ -1,2 +1,2 @@
 # cv
-Cайт-визитка на HTML+CSS+JS
+Cайт-визитка на HTML+CSS
